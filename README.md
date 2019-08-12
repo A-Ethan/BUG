@@ -3,6 +3,11 @@
 
 ### 布鲁部落
 
+### 加入我们
+战网群组：[点击加入](https://blizzardgames.cn/invite/bxqK4ojuz4J)
+
+>[查看更多](JOINUS.md)
+
 ### 插件地址
 
 1. [60addons.com](60addons.com)
