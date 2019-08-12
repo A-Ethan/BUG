@@ -2,7 +2,7 @@
 ## BUG 公会
 
 ### 布鲁部落
-
+![2007](images/20190813001809.jpg)
 ### 加入我们
 战网群组：[点击加入](https://blizzardgames.cn/invite/bxqK4ojuz4J)
 
