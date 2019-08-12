@@ -1,4 +1,4 @@
-[前往首页](https://a-ethan.github.io/bug/)
+[返回首页](https://a-ethan.github.io/bug/)
 
 ## BUG 公会
 
@@ -12,6 +12,6 @@
 
 ![](images/20190812234754.png)
 
-2. 黏贴战网链接，加入群组
+2. 黏贴战网链接`https://blizzardgames.cn/invite/bxqK4ojuz4J`，加入群组
 
 ![](images/20190812234903.png)
