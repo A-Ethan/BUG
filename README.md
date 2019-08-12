@@ -6,7 +6,7 @@
 ### 加入我们
 战网群组：[点击加入](https://blizzardgames.cn/invite/bxqK4ojuz4J)
 
-###### [查看更多...](JOINUS.md)
+<font size=2> [查看更多...](JOINUS.md) </font>
 
 ### 插件地址
 
