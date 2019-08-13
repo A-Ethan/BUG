@@ -10,7 +10,7 @@
 
 ### 插件地址
 
-1. [60addons.com](60addons.com)
+1. [60addons.com](http://60addons.com)
 
 ### 反和谐
 
