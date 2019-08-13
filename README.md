@@ -12,6 +12,8 @@
 
 1. [60addons.com](http://60addons.com)
 
+[ [查看更多...](plugIn.md) ]
+
 ### 反和谐
 
 1. 打开_classic_文件夹，在其中找到WTF文件夹，用记事本打开Config.wtf文件，将上述命令输入进去保存即可。
