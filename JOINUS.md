@@ -2,6 +2,8 @@
 
 ## BUG 公会
 
+###微信群二维码
+![](images/20190902233232.jpg)
 
 ### 加入我们
 战网群组：[点击加入](https://blizzardgames.cn/invite/bxqK4ojuz4J)
