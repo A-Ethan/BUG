@@ -1,4 +1,4 @@
-[返回首页](https://a-ethan.github.io/bug/)
+[返回首页](./)
 
 ## Fight Club 公会
 
