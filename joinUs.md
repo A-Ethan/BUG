@@ -1,6 +1,6 @@
 [返回首页](https://a-ethan.github.io/bug/)
 
-## BUG 公会
+## Fight Club 公会
 
 ###微信群二维码
 ![](images/20190902233232.jpg)

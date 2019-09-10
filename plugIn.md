@@ -1,6 +1,6 @@
 [返回首页](https://a-ethan.github.io/bug/)
 
-## BUG 公会
+## Fight Club 公会
 
 ### 插件地址
 
