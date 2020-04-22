@@ -3,7 +3,8 @@
 ## Fight Club 公会
 
 ### 微信群二维码
-![](images/20190902233232.jpg)
+
+暂停更新二维码，可联系会内人员邀请
 
 ### 加入我们
 战网群组：[点击加入](https://blizzardgames.cn/invite/bxqK4ojuz4J)
